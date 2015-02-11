@@ -1,1 +1,0 @@
-This is a yo app to send yomama jokes to users
